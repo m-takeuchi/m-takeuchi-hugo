@@ -1,0 +1,26 @@
+# [about]
+#     Name = "About"
+#     IconClass = "fa-info-circle"
+#     URL = "/about"
+
+
+[Research]
+    Name = "Research"
+    Title = "Show list of Researchs"
+    URL = "/research"
+
+[publications]
+    Name = "Publications"
+    Title = "Show list of publications"
+    URL = "/publication"
+
+
+[blog]
+    Name = "blog"
+    Title = "Show list of posts"
+    URL = "/post"
+
+[tags]
+    Name = "Tags"
+    Title = "Show list of tags"
+    URL = "/tags"
