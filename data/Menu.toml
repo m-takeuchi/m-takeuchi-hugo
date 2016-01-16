@@ -1,26 +1,29 @@
-# [about]
-#     Name = "About"
-#     IconClass = "fa-info-circle"
-#     URL = "/about"
+[00_home]
+    Name = "Home"
+    Title = "Back to Home"
+    URL = "/home"
 
+[01_about]
+    Name = "AboutMe"
+    IconClass = "fa-info-circle"
+    URL = "/aboutme"
 
-[Research]
+[10_research]
     Name = "Research"
     Title = "Show list of Researchs"
     URL = "/research"
 
-[publications]
+[20_publications]
     Name = "Publications"
     Title = "Show list of publications"
-    URL = "/publication"
+    URL = "/publications"
 
-
-[blog]
-    Name = "blog"
+[30_posts]
+    Name = "Posts"
     Title = "Show list of posts"
     URL = "/post"
 
-[tags]
+[40_tags]
     Name = "Tags"
     Title = "Show list of tags"
     URL = "/tags"
